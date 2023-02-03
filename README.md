@@ -1,4 +1,4 @@
-#Bem vindo(a) ao perfil do Ninov! 😁
+# Bem vindo(a) ao perfil do Nicolas Ninov! 😁
 <div>
   <a href="https://github.com/nicolas-ninov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-ninov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
